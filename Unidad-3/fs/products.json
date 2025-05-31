@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Buzo adidas",
+    "description": "Buzo de invierno"
+  },
+  {
+    "id": 2,
+    "title": "Campera adidas",
+    "description": "Campera de invierno"
+  },
+  {
+    "id": 3,
+    "title": "Campera azul",
+    "description": "Campera de invierno azul"
+  }
+]
