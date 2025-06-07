@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Buzo rojo",
+    "description": "Buzo de invierno",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "title": "Gorro",
+    "description": "Gorro de invierno",
+    "price": 700
+  }
+]
